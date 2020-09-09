@@ -1,0 +1,15 @@
+tblactividad,autor,tblusuario,idusuario
+tblactividad,idfalla,tblfalla,idfalla
+tblactividad,let,tblusuario,idusuario
+tblactividad,lgt,tblusuario,idusuario
+tblactividad,sgl,tblusuario,idusuario
+tblarea,idareapadre,tblarea,idactividad
+tblarea,idplanta,tblplanta,idplanta
+tblfalla,idoperacion,tbloperacion,idoperacion
+tblfalla,idsistema,tblsistema,idsistema
+tblmetactividad,idactividad,tblactividad,idactividad
+tblusuario,idusuario,tblusuario,idusuario
+tblmetslet,let,tblusuario,idusuario
+tblmetslet,met,tblusuario,idusuario
+tbloperacion,idarea,tblarea,idactividad
+tblusuario,idarea,tblarea,idactividad
